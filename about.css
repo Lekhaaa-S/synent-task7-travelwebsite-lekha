@@ -1,0 +1,43 @@
+/* about.css */
+
+.section {
+    padding: 120px 8% 80px;
+    text-align: center;
+}
+
+.section h2 {
+    font-size: 40px;
+    color: #0f172a;
+    margin-bottom: 40px;
+}
+
+.about-content {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 40px;
+    text-align: left;
+}
+
+.about-content img {
+    max-width: 500px;
+    border-radius: 10px;
+    box-shadow: 0 10px 20px rgba(0,0,0,0.1);
+}
+
+.about-text {
+    max-width: 500px;
+    line-height: 1.8;
+}
+
+.about-text p {
+    margin-bottom: 20px;
+}
+
+footer {
+    background: #0f172a;
+    color: white;
+    text-align: center;
+    padding: 20px 8%;
+    margin-top: 40px;
+}
