@@ -15,7 +15,7 @@ A simple multi-page travel website built with HTML, CSS, and JavaScript.
 - Clean shared styling in `style.css`
 
 ## Live Link
-- 
+- https://lekhaaa-s.github.io/synent-task7-travelwebsite-lekha/
 
 ## Notes
 - All pages use the shared `style.css` file.
